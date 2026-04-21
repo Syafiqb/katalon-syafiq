@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC -003 Add specific product to cart (Bolt T-Shirt)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9d4bbbf-4918-4be0-b115-78beadd92bc7</testCaseGuid>
+</TestCaseEntity>

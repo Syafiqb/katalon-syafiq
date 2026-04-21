@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -001 Complete Checkout Flow - Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb5a56d3-1cfa-429d-bf2b-191f8fde6d52</testCaseGuid>
+</TestCaseEntity>

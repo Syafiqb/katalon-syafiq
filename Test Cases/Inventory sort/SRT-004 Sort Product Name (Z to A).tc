@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SRT-004 Sort Product Name (Z to A)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85c40bc3-0a4f-40d4-b57b-2375ab53f512</testCaseGuid>
+</TestCaseEntity>

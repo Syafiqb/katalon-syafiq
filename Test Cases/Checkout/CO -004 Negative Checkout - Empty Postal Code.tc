@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -004 Negative Checkout - Empty Postal Code</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a403bd8-d734-4b3b-9607-3514af6acf6f</testCaseGuid>
+</TestCaseEntity>

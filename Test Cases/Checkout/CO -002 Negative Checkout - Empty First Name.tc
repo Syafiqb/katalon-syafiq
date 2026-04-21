@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -002 Negative Checkout - Empty First Name</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1af501fb-41d0-471b-bafc-a466ac7552d8</testCaseGuid>
+</TestCaseEntity>

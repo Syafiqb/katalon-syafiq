@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -009 Finalize checkout and back to Home</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66dd36eb-9592-469f-b8dc-75bf06f5cb48</testCaseGuid>
+</TestCaseEntity>

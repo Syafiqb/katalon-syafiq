@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC -002 Add specific product to cart (Bike Light)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b948f5cc-56fc-4ec2-a975-d15c5132441f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -007 Navigate back from Cart to Inventory</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1954940d-4b09-4408-bad0-0d90cf368efe</testCaseGuid>
+</TestCaseEntity>

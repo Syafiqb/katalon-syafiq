@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SRT-001 Sort Product Price (Low to High)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95912625-2e05-4dd0-bef2-997ee0ca9a4f</testCaseGuid>
+</TestCaseEntity>

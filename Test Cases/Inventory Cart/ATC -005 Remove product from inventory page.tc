@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC -005 Remove product from inventory page</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06206982-8b61-4ff3-8b3c-9b69b6bc7e49</testCaseGuid>
+</TestCaseEntity>

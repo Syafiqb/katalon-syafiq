@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO -005 Cancel Checkout on Information Page</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1427d6a-5701-4df0-8a7b-928c8df550bd</testCaseGuid>
+</TestCaseEntity>

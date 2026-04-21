@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC -001 Add specific product to cart (Backpack)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c1cebae-24c2-4e09-ab9d-45f3eb2af614</testCaseGuid>
+</TestCaseEntity>
